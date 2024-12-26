@@ -1,7 +1,4 @@
-Hello this is Suman Mummaneni
-I am a software engineer love to work on Web applications. 
-Have worked on Java, currently working on React JS. 
-
-I will start uploading my work that can be made public and learnings.
-
-Please do send me your comments and request on my work.
+I am a Java and React JS developer building user-friendly web applications. 
+I'm passionate about clean code, and optimized algorithums. I'm always learning
+and enjoy contributing to open source projects in my free time. 
+You can find some of my projects on my LinkedIn profile. 
